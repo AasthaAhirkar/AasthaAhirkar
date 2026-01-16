@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Aastha Ahirkar</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
-<!--
-**AasthaAhirkar/AasthaAhirkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 📈 Passionate about data analysis and data-driven decision making  
+- 🧠 Enjoy working with real-world datasets and finding patterns  
+- 📊 Interested in analytics, visualization, and business insights  
+- 🚀 Actively looking for entry-level opportunities in Data Analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills & Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+---
+
+### 🚀 Projects
+📉 <b>Stock Market Trend Explorer</b>  
+Python-based analysis to identify stock price trends, moving averages, and performance insights using clean visualizations.
+
+📱 <b>Mobile Sales Intelligence Dashboard</b>  
+Interactive Power BI dashboard tracking sales KPIs, MTD & YoY growth, city-wise and brand-wise performance.
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:aasthaahirkar12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Learning+%7C+Analyzing+%7C+Growing" />
+</p>
