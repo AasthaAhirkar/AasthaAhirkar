@@ -20,14 +20,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
----
-
-### 🚀 Projects
-📉 <b>Stock Market Trend Explorer</b>  
-Python-based analysis to identify stock price trends, moving averages, and performance insights using clean visualizations.
-
-📱 <b>Mobile Sales Intelligence Dashboard</b>  
-Interactive Power BI dashboard tracking sales KPIs, MTD & YoY growth, city-wise and brand-wise performance.
 
 ---
 
@@ -36,8 +28,11 @@ Interactive Power BI dashboard tracking sales KPIs, MTD & YoY growth, city-wise 
   <a href="mailto:aasthaahirkar12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://AasthaAhirkar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
