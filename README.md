@@ -4,11 +4,11 @@
 ---
 
 ### 👩‍💻 About Me
-- 📊 Data Analyst passionate about transforming raw data into meaningful insights  
-- 🔍 Skilled in analyzing real-world datasets to uncover trends and patterns  
-- 📈 Focused on data visualization, KPI tracking, and business decision support  
-- 🧠 Strong interest in solving business problems using data-driven approaches  
-- 🚀 Currently seeking entry-level opportunities in Data Analytics  
+📊 Data Analyst passionate about transforming raw data into meaningful insights  
+🔍 Skilled in analyzing real-world datasets to uncover trends and patterns  
+📈 Focused on data visualization, KPI tracking, and business decision support  
+🧠 Strong interest in solving business problems using data-driven approaches  
+🚀 Currently seeking entry-level opportunities in Data Analytics  
 
 ---
 
