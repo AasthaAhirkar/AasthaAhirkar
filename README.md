@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aastha Ahirkar</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+<h3 align="center">Data Analyst | Turning Data into Insights 📊</h3>
 
 ---
 
@@ -44,5 +44,5 @@ Interactive Power BI dashboard tracking sales KPIs, MTD & YoY growth, city-wise 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Learning+%7C+Analyzing+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Analyst;Learning+%7C+Analyzing+%7C+Growing" />
 </p>
