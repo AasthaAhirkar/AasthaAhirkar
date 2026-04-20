@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋 I'm Aastha Ahirkar</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights 📊</h3>
+<h3 align="center">Data Analyst | Turning Data into Actionable Insights 📊</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 📈 Passionate about data analysis and data-driven decision making  
-- 🧠 Enjoy working with real-world datasets and finding patterns  
-- 📊 Interested in analytics, visualization, and business insights  
-- 🚀 Actively looking for entry-level opportunities in Data Analytics  
+- 📊 Data Analyst passionate about transforming raw data into meaningful insights  
+- 🔍 Skilled in analyzing real-world datasets to uncover trends and patterns  
+- 📈 Focused on data visualization, KPI tracking, and business decision support  
+- 🧠 Strong interest in solving business problems using data-driven approaches  
+- 🚀 Currently seeking entry-level opportunities in Data Analytics  
 
 ---
 
@@ -31,13 +32,13 @@
   <a href="https://www.linkedin.com/in/aastha-ahirkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="https://AasthaAhirkar.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
+  <a href="https://AasthaAhirkar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Analyst;Learning+%7C+Analyzing+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Analyst;Turning+Data+into+Insights;Learning+%7C+Analyzing+%7C+Growing" />
 </p>
