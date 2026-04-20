@@ -31,9 +31,9 @@
   <a href="https://www.linkedin.com/in/aastha-ahirkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://AasthaAhirkar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<a href="https://AasthaAhirkar.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
 </p>
 
 ---
